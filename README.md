@@ -1,4 +1,4 @@
-﻿# FastAPI Glossary Application
+﻿# gRPC Glossary Application
 
 ## Установка и запуск
 
